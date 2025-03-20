@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sathiyaseelaperumal7@gmail.com**
 
-- ⚡ Fun fact **My code runs… but only when no one is watching.**
+- ⚡ Fun fact - **My code runs… but only when no one is watching.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
