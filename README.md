@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Sakthi</h1>
+<h1 align="center">Hi 👋, I'm Sathiyaseela perumal</h1>
 <h3 align="center">A passionate software developer </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/09/c4/ae/09c4aec786c70fe78a3722b6049d6851.jpg">
 
