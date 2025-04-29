@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sathiyaseelaperumal7@gmail.com**
 
-- 📄 Know about my experiences
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1KmxosF978iSCdyz9Uj1q_kD1Qdb4RTRM/view?usp=drive_link)
 
 - ⚡ Fun fact - **My code runs… but only when no one is watching.**
 
