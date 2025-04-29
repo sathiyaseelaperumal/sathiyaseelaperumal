@@ -13,7 +13,12 @@
 
 - 📫 How to reach me **sathiyaseelaperumal7@gmail.com**
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1KmxosF978iSCdyz9Uj1q_kD1Qdb4RTRM/view?usp=drive_link)
+<p>
+  <b>📄 Know about my experiences:</b>
+  <a href="https://drive.google.com/file/d/1KmxosF978iSCdyz9Uj1q_kD1Qdb4RTRM/view?usp=drive_link" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=google-drive" alt="Resume Badge">
+  </a>
+</p>
 
 - ⚡ Fun fact - **My code runs… but only when no one is watching.**
 
