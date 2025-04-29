@@ -13,12 +13,11 @@
 
 - 📫 How to reach me **sathiyaseelaperumal7@gmail.com**
 
-<p>
+
   -📄 Know about my experiences
   <a href="https://drive.google.com/file/d/1KmxosF978iSCdyz9Uj1q_kD1Qdb4RTRM/view?usp=drive_link" target="_blank" style="text-decoration: none;">
-    
   </a>
-</p>
+
 
 - ⚡ Fun fact - **My code runs… but only when no one is watching.**
 
