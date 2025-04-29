@@ -1,7 +1,7 @@
-
+![coddy](https://github.com/user-attachments/assets/aea84871-0e2e-4e67-b398-6b7e39be1293)
 <h1 align="center">Hi 👋, I'm Sathiyaseelan</h1>
 <h3 align="center">🚀 A passionate software developer </h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/09/c4/ae/09c4aec786c70fe78a3722b6049d6851.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/09/c4/ae/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathiyaseelaperumal&label=Profile%20views&color=0e75b6&style=flat" alt="sathiyaseelaperumal" /> </p>
 
