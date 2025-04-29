@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **sathiyaseelaperumal7@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/sparky/Documents/resume/RESUME_7.pdf](file:///C:/Users/sparky/Documents/resume/RESUME_7.pdf)
+- 📄 Know about my experiences
 
-- ⚡ Fun fact **My code runs… but only when no one is watching.**
+- ⚡ Fun fact - **My code runs… but only when no one is watching.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
