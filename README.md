@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data structures**
 
-- 💬 Ask me about **java,spring,sql,hibernate**
+- 💬 Ask me about **java,spring,Rest Api,hibernate**
 
 - 📫 How to reach me **sathiyaseelaperumal7@gmail.com**
 
