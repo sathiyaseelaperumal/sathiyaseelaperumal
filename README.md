@@ -31,4 +31,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathiyaseelaperumal&show_icons=true&locale=en" alt="sathiyaseelaperumal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathiyaseelaperumal&" alt="sathiyaseelaperumal" /></p>  make me git hub profile pro give head img then style
