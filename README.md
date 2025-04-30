@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![flat-lay-workstation-with-copy-space-laptop](https://github.com/user-attachments/assets/280a6fce-f2f9-4d5a-8a96-dc0982d682da)
-" alt="Header Image" width="100%" />
+  <img src="https://github.com/user-attachments/assets/280a6fce-f2f9-4d5a-8a96-dc0982d682da" alt="Header Image" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sathiyaseelan</h1>
