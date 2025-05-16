@@ -6,7 +6,7 @@
 
  ### 🧠 About Me
 
-- 🌱 I’m currently learning **Data structures**
+- 🌱 I’m currently learning **Data structures and Algorithms**
 
 - 💬 Ask me about **java,spring,Rest Api,hibernate**
 
