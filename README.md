@@ -27,17 +27,18 @@
 
 ### 🛠️ Skills & Technologies
 ---
+  **Backend Development**
 - Java (Core & Advanced)  
 - Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)  
 - Microservices Architecture (REST APIs, Service Communication)  
 - Hibernate & JPA  
 - API Security (OAuth2, JWT, Role-Based Access Control)  
 
-- **Databases**  
+  **Databases**  
   - MySQL  
   - PostgreSQL  
 
-- **Tools & Other Technologies**  
+ **Tools & Other Technologies**  
   - Git & GitHub  
   - Postman (API Testing)  
   - HTML, CSS
