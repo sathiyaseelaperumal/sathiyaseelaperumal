@@ -15,17 +15,13 @@
 💻 While my primary strength is backend development, I’m also familiar with Web Technologies (HTML, CSS, JavaScript) and React.js, enabling collaboration across the full stack when needed.
 
 
-🔭 Currently Learning: Data Structures and Algorithms
 
-💡 Interested in: Develop web applications and E-commerce platforms
-
-💬 Ask Me About: Java, Spring Boot, REST APIs, Hibernate, JDBC
-
-📫 How to Reach Me: sathiyaseelaperumal7@gmail.com
-
-📄 Know about my experiences: View My Resume
-
-⚡ Fun Fact: My code runs… but only when no one is watching.
+<b>🔭 Currently Learning:</b> Data Structures and Algorithms  
+<b>💡 Interested in:</b> Develop web applications and E-commerce platforms  
+<b>💬 Ask Me About:</b> Java, Spring Boot, REST APIs, Hibernate, JDBC  
+<b>📫 How to Reach Me:</b> sathiyaseelaperumal7@gmail.com  
+<b>📄 Know about my experiences:</b> <a href="https://drive.google.com/file/d/1KmxosF978iSCdyz9Uj1q_kD1Qdb4RTRM/view?usp=drive_link">View My Resume</a>  
+<b>⚡ Fun Fact:</b> My code runs… but only when no one is watching.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
