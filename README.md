@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sathiyaseelan</h1>
 
-<h1 align="Left">🧠 About me</h1>
+<h2 align="Left">🧠 About me</h2>
 
 🚀 I’m a dedicated Backend Developer with a strong foundation in Java and solid expertise in technologies like Spring Framework, Spring Boot, REST APIs, Hibernate, JSP, Servlets, and JDBC. I specialize in building scalable, high-performance, and secure server-side applications.
 
@@ -28,7 +28,7 @@
 ---
 
  <h2 align="Left">🛠️ Skills & Technologies</h2>
-
+---
 **Backend Development**  
 Java (Core & Advanced)  
 Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)  
