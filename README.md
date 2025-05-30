@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A passionate software developer </h3>
 
 
-🧠 About Me
+<h3 align="left">🧠 About Me</h3>
 I’m an aspiring Java Backend Developer with a strong interest in building robust and scalable web applications. I have hands-on experience with Java, the Spring Framework, REST APIs, and Hibernate,JDBC and I’m constantly working to deepen my knowledge in backend development.
 
 🔭 Currently Learning: Data Structures and Algorithms
