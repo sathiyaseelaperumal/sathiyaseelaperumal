@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Skills & Technologies
+ <h2 align="Left">🛠️ Skills & Technologies</h2>
 
 **Backend Development**  
 Java (Core & Advanced)  
