@@ -27,21 +27,28 @@
 ---
 <h2 align="Left">🛠️ Skills & Technologies</h2>
 
-  <h3 align="Left">Backend Development</h3>
-- Java (Core & Advanced)  
-- Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)  
-- Microservices Architecture (REST APIs, Service Communication)  
-- Hibernate & JPA  
-- API Security (OAuth2, JWT, Role-Based Access Control)  
+ 
+ <ul>
+  <li>Java (Core & Advanced)</li>
+  <li>Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)</li>
+  <li>Microservices Architecture (REST APIs, Service Communication)</li>
+  <li>Hibernate & JPA</li>
+  <li>API Security (OAuth2, JWT, Role-Based Access Control)</li>
+</ul>
 
-<h3 align="Left">Databases</h3>  
-- SQL
-- PL/SQL 
-- MySQL
- <h3 align="Left">Tools & Other Technologies </h3>
-  - Git & GitHub  
-  - Postman (API Testing)  
-  - HTML, CSS
+<h3 align="left">Databases</h3>
+<ul>
+  <li>SQL</li>
+  <li>PL/SQL</li>
+  <li>MySQL</li>
+</ul>
+
+<h3 align="left">Tools & Other Technologies</h3>
+<ul>
+  <li>Git & GitHub</li>
+  <li>Postman (API Testing)</li>
+  <li>HTML, CSS</li>
+</ul>
 
 
 <h3 align="left">Connect with me:</h3>
