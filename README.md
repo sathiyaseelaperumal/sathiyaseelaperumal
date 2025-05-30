@@ -35,8 +35,9 @@
 - API Security (OAuth2, JWT, Role-Based Access Control)  
 
   **Databases**  
-  - MySQL  
-  - PostgreSQL  
+- SQL
+- PL/SQL 
+- MySQL
 
  **Tools & Other Technologies**  
   - Git & GitHub  
