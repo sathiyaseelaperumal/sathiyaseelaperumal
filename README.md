@@ -27,7 +27,7 @@
 ---
 <h2 align="Left">🛠️ Skills & Technologies</h2>
 
- 
+ <h3 align="left">Backend Development</h3>
  <ul>
   <li>Java (Core & Advanced)</li>
   <li>Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)</li>
