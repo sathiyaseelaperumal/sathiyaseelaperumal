@@ -16,7 +16,7 @@
 
 
 
-<b>🔭 Currently Learning:</b> Data Structures and Algorithms  
+<b>🔭 Currently Learning:</b> Data Structures and Algorithms   <br>
 <b>💡 Interested in:</b> Develop web applications and E-commerce platforms  
 <b>💬 Ask Me About:</b> Java, Spring Boot, REST APIs, Hibernate, JDBC  
 <b>📫 How to Reach Me:</b> sathiyaseelaperumal7@gmail.com  
