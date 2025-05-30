@@ -1,32 +1,27 @@
 <h1 align="center">Hi 👋, I'm Sathiyaseelan</h1>
 
 
-
-<h3 align="left">🧠 About Me</h3>
+<h3 align="left"><u>🧠 About Me</u></h3>
 
 🚀 I’m a dedicated Backend Developer with a strong foundation in Java and solid expertise in technologies like Spring Framework, Spring Boot, REST APIs, Hibernate, JSP, Servlets, and JDBC. I specialize in building scalable, high-performance, and secure server-side applications.
 
 💡 I have hands-on experience in designing and implementing RESTful APIs to enable smooth and efficient communication between systems.
  
- 🎯 I’m passionate about solving real-world problems through strong problem-solving skills and continuous learning.
+🎯 I’m passionate about solving real-world problems through strong problem-solving skills and continuous learning.
 
 🛠️ Skilled in SQL, PL/SQL, and MySQL, I ensure reliable data handling and optimized database interactions.
 
 💻 While my primary strength is backend development, I’m also familiar with Web Technologies (HTML, CSS, JavaScript) and React.js, enabling collaboration across the full stack when needed.
 
-
-
-<b>🔭 Currently Learning:</b> Data Structures and Algorithms 
-
-<b>💡 Interested in:</b> Develop web applications and E-commerce platforms 
-
-<b>💬 Ask Me About:</b> Java, Spring Boot, REST APIs, Hibernate
-
+<b>🔭 Currently Learning:</b> Data Structures and Algorithms  
+<b>💡 Interested in:</b> Develop web applications and E-commerce platforms  
+<b>💬 Ask Me About:</b> Java, Spring Boot, REST APIs, Hibernate  
 <b>📫 How to Reach Me:</b> sathiyaseelaperumal7@gmail.com  
-
 <b>📄 Know about my experiences:</b> <a href="https://drive.google.com/file/d/1KmxosF978iSCdyz9Uj1q_kD1Qdb4RTRM/view?usp=drive_link">View My Resume</a>  
+<b>⚡ Fun Fact:</b> My code runs… but only when no one is watching.  
 
-<b>⚡ Fun Fact:</b> My code runs… but only when no one is watching.
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
