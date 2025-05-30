@@ -28,8 +28,9 @@
 ---
 
  <h2 align="Left">🛠️ Skills & Technologies</h2>
----
-**Backend Development**  
+ ---
+ <h3 align="Left">Backend Development</h3>
+ 
 Java (Core & Advanced)  
 Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)  
 Microservices Architecture (REST APIs, Service Communication)  
