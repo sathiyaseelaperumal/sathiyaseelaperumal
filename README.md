@@ -2,19 +2,21 @@
 <h3 align="center">🚀 A passionate software developer </h3>
 
 
+🧠 About Me
+I’m an aspiring Java Backend Developer with a strong interest in building robust and scalable web applications. I have hands-on experience with Java, the Spring Framework, REST APIs, and Hibernate,JDBC and I’m constantly working to deepen my knowledge in backend development.
 
+🔭 Currently Learning: Data Structures and Algorithms
 
- ### 🧠 About Me
+💡 Interested in: Develop web applications and E-commerce platforms
 
-- 🌱 I’m currently learning **Data structures and Algorithms**
+💬 Ask Me About: Java, Spring Boot, REST APIs, Hibernate,JDBC
 
-- 💬 Ask me about **java,spring,Rest Api,hibernate**
+📫 How to Reach Me: sathiyaseelaperumal7@gmail.com
 
-- 📫 How to reach me **sathiyaseelaperumal7@gmail.com**
+📄 Know about my experiences: View My Resume
 
-- 📄 Know about my experiences  [View My Resume](https://drive.google.com/file/d/1KmxosF978iSCdyz9Uj1q_kD1Qdb4RTRM/view?usp=drive_link)
+⚡ Fun Fact: My code runs… but only when no one is watching.
 
-- ⚡ Fun fact - **My code runs… but only when no one is watching.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
