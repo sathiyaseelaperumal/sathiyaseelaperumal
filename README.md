@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sathiyaseelan</h1>
 
 
-<h3 align="left">🧠 About Me</h3>
+<h3 align="left"><u>🧠 About Me</u></h3>
+<hr>
 
 🚀 I’m a dedicated Backend Developer with a strong foundation in Java and solid expertise in technologies like Spring Framework, Spring Boot, REST APIs, Hibernate, JSP, Servlets, and JDBC. I specialize in building scalable, high-performance, and secure server-side applications.
 
