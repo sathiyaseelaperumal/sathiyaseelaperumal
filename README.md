@@ -16,11 +16,16 @@
 
 
 
-<b>🔭 Currently Learning:</b> Data Structures and Algorithms   <br>
-<b>💡 Interested in:</b> Develop web applications and E-commerce platforms  
-<b>💬 Ask Me About:</b> Java, Spring Boot, REST APIs, Hibernate, JDBC  
+<b>🔭 Currently Learning:</b> Data Structures and Algorithms 
+
+<b>💡 Interested in:</b> Develop web applications and E-commerce platforms 
+
+<b>💬 Ask Me About:</b> Java, Spring Boot, REST APIs, Hibernate
+
 <b>📫 How to Reach Me:</b> sathiyaseelaperumal7@gmail.com  
+
 <b>📄 Know about my experiences:</b> <a href="https://drive.google.com/file/d/1KmxosF978iSCdyz9Uj1q_kD1Qdb4RTRM/view?usp=drive_link">View My Resume</a>  
+
 <b>⚡ Fun Fact:</b> My code runs… but only when no one is watching.
 
 <h3 align="left">Connect with me:</h3>
