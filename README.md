@@ -51,7 +51,7 @@
   <li>Git & GitHub</li>
   <li>Postman (API Testing)</li>
   <li>HTML, CSS,Java Script</li>
-   <li>React.JS</li>
+   <li>React.JS(Framework)</li>
 </ul>
 
 
