@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathiyaseelan</h1>
-<h3 align="center">🚀 A passionate software developer </h3>
+
 
 
 <h3 align="left">🧠 About Me</h3>
