@@ -22,7 +22,7 @@
 
 <b>📄 Know about my experiences:</b> <a href="https://drive.google.com/file/d/1KmxosF978iSCdyz9Uj1q_kD1Qdb4RTRM/view?usp=drive_link">View My Resume</a>  
 
-<b>⚡ Fun Fact :</b>  My code runs… but only when no one is watching. i want underline for about me then  after this <b>⚡ Fun Fact:</b> My code runs… but only when no one is watching. 
+<b>⚡ Fun Fact:</b> My code runs… but only when no one is watching.
 
 ---
 <h2 align="Left">🛠️ Skills & Technologies</h2>
