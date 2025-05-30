@@ -25,32 +25,22 @@
 <b>⚡ Fun Fact:</b> My code runs… but only when no one is watching. i want underline for about me then  after this <b>⚡ Fun Fact:</b> My code runs… but only when no one is watching. 
 
 
+### 🛠️ Skills & Technologies
 ---
+- Java (Core & Advanced)  
+- Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)  
+- Microservices Architecture (REST APIs, Service Communication)  
+- Hibernate & JPA  
+- API Security (OAuth2, JWT, Role-Based Access Control)  
 
- <h2 align="Left">🛠️ Skills & Technologies</h2>
- ---
- <h3 align="Left">Backend Development</h3>
- 
-Java (Core & Advanced)  
-Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)  
-Microservices Architecture (REST APIs, Service Communication)  
-Hibernate & JPA  
-API Security (OAuth2, JWT, Role-Based Access Control)  
+- **Databases**  
+  - MySQL  
+  - PostgreSQL  
 
-**Databases**  
-MySQL  
-PostgreSQL  
-
-**DevOps & Cloud**  
-Containerization & Orchestration: Docker, Kubernetes (Learning)  
-Message Queues & Caching: Kafka, Redis (Learning)  
-CI/CD & Automation: GitHub Actions (Exploring)  
-Cloud Platforms: AWS Basics  
-
-**Tools & Other Technologies**  
-Git & GitHub  
-Postman (API Testing)  
-HTML, CSS
+- **Tools & Other Technologies**  
+  - Git & GitHub  
+  - Postman (API Testing)  
+  - HTML, CSS
 
 
 <h3 align="left">Connect with me:</h3>
