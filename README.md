@@ -3,7 +3,18 @@
 
 
 <h3 align="left">🧠 About Me</h3>
-I’m an aspiring Java Backend Developer with a strong interest in building robust and scalable web applications. I have hands-on experience with Java, the Spring Framework, REST APIs, and Hibernate,JDBC and I’m constantly working to deepen my knowledge in backend development.
+
+🚀 I’m a dedicated Backend Developer with a strong foundation in Java and solid expertise in technologies like Spring Framework, Spring Boot, REST APIs, Hibernate, JSP, Servlets, and JDBC. I specialize in building scalable, high-performance, and secure server-side applications.
+
+💡 I have hands-on experience in designing and implementing RESTful APIs to enable smooth and efficient communication between systems.
+ 
+ 🎯 I’m passionate about solving real-world problems through strong problem-solving skills and continuous learning.
+
+🛠️ Skilled in SQL, PL/SQL, and MySQL, I ensure reliable data handling and optimized database interactions.
+
+💻 While my primary strength is backend development, I’m also familiar with Web Technologies (HTML, CSS, JavaScript) and React.js, enabling collaboration across the full stack when needed.
+
+
 
 🔭 Currently Learning: Data Structures and Algorithms
 
