@@ -2,9 +2,9 @@
 
 
 <h3 align="left"><u>🧠 About Me</u></h3>
-<hr>
+<hr style="border: 0; height: 1px; background: #ccc; width: 100px; margin-left: 0;">
 
-🚀 I’m a dedicated Backend Developer with a strong foundation in Java and solid expertise in technologies like Spring Framework, Spring Boot, REST APIs, Hibernate, JSP, Servlets, and JDBC. I specialize in building scalable, high-performance, and secure server-side applications.
+       🚀 I’m a dedicated Backend Developer with a strong foundation in Java and solid expertise in technologies like Spring Framework, Spring Boot, REST APIs, Hibernate, JSP, Servlets, and JDBC. I specialize in building scalable, high-performance, and secure server-side applications.
 
 💡 I have hands-on experience in designing and implementing RESTful APIs to enable smooth and efficient communication between systems.
  
