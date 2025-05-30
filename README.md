@@ -10,10 +10,6 @@
  
  🎯 I’m passionate about solving real-world problems through strong problem-solving skills and continuous learning.
 
-🛠️ Skilled in SQL, PL/SQL, and MySQL, I ensure reliable data handling and optimized database interactions.
-
-💻 While my primary strength is backend development, I’m also familiar with Web Technologies (HTML, CSS, JavaScript) and React.js, enabling collaboration across the full stack when needed.
-
 
 
 <b>🔭 Currently Learning:</b> Data Structures and Algorithms 
@@ -30,6 +26,30 @@
 
 
 ---
+
+### 🛠️ Skills & Technologies
+
+**Backend Development**  
+Java (Core & Advanced)  
+Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)  
+Microservices Architecture (REST APIs, Service Communication)  
+Hibernate & JPA  
+API Security (OAuth2, JWT, Role-Based Access Control)  
+
+**Databases**  
+MySQL  
+PostgreSQL  
+
+**DevOps & Cloud**  
+Containerization & Orchestration: Docker, Kubernetes (Learning)  
+Message Queues & Caching: Kafka, Redis (Learning)  
+CI/CD & Automation: GitHub Actions (Exploring)  
+Cloud Platforms: AWS Basics  
+
+**Tools & Other Technologies**  
+Git & GitHub  
+Postman (API Testing)  
+HTML, CSS
 
 
 <h3 align="left">Connect with me:</h3>
