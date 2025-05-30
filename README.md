@@ -31,9 +31,12 @@
  <ul>
   <li>Java (Core & Advanced)</li>
   <li>Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)</li>
-  <li>Microservices Architecture (REST APIs, Service Communication)</li>
-  <li>Hibernate & JPA</li>
-  <li>API Security (OAuth2, JWT, Role-Based Access Control)</li>
+  <li>REST API </li>
+  <li>Hibernate</li>
+  <li>JDBC</li>
+  <li>JSP</li>
+  <li>Servlets</li>
+  
 </ul>
 
 <h3 align="left">Databases</h3>
@@ -47,7 +50,8 @@
 <ul>
   <li>Git & GitHub</li>
   <li>Postman (API Testing)</li>
-  <li>HTML, CSS</li>
+  <li>HTML, CSS,Java Script</li>
+   <li>React.JS</li>
 </ul>
 
 
