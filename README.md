@@ -24,9 +24,9 @@
 
 <b>⚡ Fun Fact:</b> My code runs… but only when no one is watching. i want underline for about me then  after this <b>⚡ Fun Fact:</b> My code runs… but only when no one is watching. 
 
-
-### 🛠️ Skills & Technologies
 ---
+### 🛠️ Skills & Technologies
+
   **Backend Development**
 - Java (Core & Advanced)  
 - Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)  
