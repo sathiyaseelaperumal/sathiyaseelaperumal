@@ -67,4 +67,3 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathiyaseelaperumal&show_icons=true&locale=en" alt="sathiyaseelaperumal" /></p>
